@@ -1,0 +1,532 @@
+[
+  {
+    "id": "kitap-1",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Eğitimin Temelleri",
+    "ders_sonra": "Genel",
+    "sayfa_once": 431,
+    "sayfa_sonra": 431,
+    "sayfa_kaynagi": "arsiv"
+  },
+  {
+    "id": "kitap-2",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 598,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-3",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Matematik",
+    "ders_sonra": "Genel",
+    "sayfa_once": 512,
+    "sayfa_sonra": 512,
+    "sayfa_kaynagi": "arsiv"
+  },
+  {
+    "id": "kitap-4",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 105,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-5",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 328,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-6",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": "bilinmiyor"
+  },
+  {
+    "id": "kitap-7",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Türkçe",
+    "sayfa_once": null,
+    "sayfa_sonra": 289,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-8",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 283,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-9",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Türkçe",
+    "sayfa_once": null,
+    "sayfa_sonra": 242,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-10",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Rehberlik ve Özel Eğitim",
+    "ders_sonra": "Rehberlik ve Özel Eğitim",
+    "sayfa_once": null,
+    "sayfa_sonra": 209,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-11",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Öğretim İlke ve Yöntemleri",
+    "ders_sonra": "Öğretim İlke ve Yöntemleri",
+    "sayfa_once": null,
+    "sayfa_sonra": 163,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-12",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 162,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-13",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Gelişim Psikolojisi",
+    "ders_sonra": "Gelişim Psikolojisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 225,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-14",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Öğrenme Psikolojisi",
+    "ders_sonra": "Öğrenme Psikolojisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 239,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-15",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Ölçme ve Değerlendirme",
+    "ders_sonra": "Ölçme ve Değerlendirme",
+    "sayfa_once": null,
+    "sayfa_sonra": 193,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-16",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Matematik",
+    "ders_sonra": "Matematik",
+    "sayfa_once": null,
+    "sayfa_sonra": 174,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-17",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 215,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-18",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Rehberlik ve Özel Eğitim",
+    "ders_sonra": "Rehberlik ve Özel Eğitim",
+    "sayfa_once": null,
+    "sayfa_sonra": 139,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-19",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 154,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-20",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Öğretim İlke ve Yöntemleri",
+    "ders_sonra": "Öğretim İlke ve Yöntemleri",
+    "sayfa_once": null,
+    "sayfa_sonra": 186,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-21",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Ölçme ve Değerlendirme",
+    "ders_sonra": "Ölçme ve Değerlendirme",
+    "sayfa_once": null,
+    "sayfa_sonra": 152,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-22",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Öğrenme Psikolojisi",
+    "ders_sonra": "Öğrenme Psikolojisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 139,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-23",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "Gelişim Psikolojisi",
+    "ders_sonra": "Gelişim Psikolojisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 70,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-24",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 302,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-25",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Tarih",
+    "ders_sonra": "Tarih",
+    "sayfa_once": null,
+    "sayfa_sonra": 327,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-26",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": 240,
+    "sayfa_sonra": 240,
+    "sayfa_kaynagi": "arsiv"
+  },
+  {
+    "id": "kitap-27",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Mevzuat",
+    "ders_sonra": "Mevzuat",
+    "sayfa_once": null,
+    "sayfa_sonra": 166,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-28",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Türkçe",
+    "sayfa_once": null,
+    "sayfa_sonra": 152,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-29",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Matematik",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 178,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-30",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Tarih",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 129,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-31",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Genel",
+    "sayfa_once": 136,
+    "sayfa_sonra": 136,
+    "sayfa_kaynagi": "arsiv"
+  },
+  {
+    "id": "kitap-32",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 231,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-33",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 95,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-34",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": 143,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-35",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dil Bilgisi",
+    "ders_sonra": "Dil Bilgisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 166,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-36",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": 181,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "kitap-37",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Matematik",
+    "ders_sonra": "Matematik",
+    "sayfa_once": null,
+    "sayfa_sonra": 181,
+    "sayfa_kaynagi": "icindekiler_tahmini"
+  },
+  {
+    "id": "deneme-1",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-2",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-3",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Eski Türk Edebiyatı",
+    "ders_sonra": "Eski Türk Edebiyatı",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-4",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Tarih",
+    "ders_sonra": "Tarih",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-5",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-6",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-7",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-8",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Tarih",
+    "ders_sonra": "Tarih",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-9",
+    "alan_once": "AGS",
+    "alan_sonra": "EĞİTİM",
+    "ders_once": "genel",
+    "ders_sonra": "Genel",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-10",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dil Bilgisi ve Dil Bilimi",
+    "ders_sonra": "Dil Bilgisi ve Dil Bilimi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-11",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dil Bilimi",
+    "ders_sonra": "Dil Bilimi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-12",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dil Bilgisi",
+    "ders_sonra": "Dil Bilgisi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-13",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Türkiye Yüzyılı Maarif Modeli",
+    "ders_sonra": "Türkiye Yüzyılı Maarif Modeli",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-14",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-15",
+    "alan_once": "ÖABT",
+    "alan_sonra": "ÖABT",
+    "ders_once": "Dört Temel Dil Becerisi",
+    "ders_sonra": "Dört Temel Dil Becerisi",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  },
+  {
+    "id": "deneme-16",
+    "alan_once": "AGS",
+    "alan_sonra": "AGS",
+    "ders_once": "Türkçe",
+    "ders_sonra": "Türkçe",
+    "sayfa_once": null,
+    "sayfa_sonra": null,
+    "sayfa_kaynagi": null
+  }
+]
